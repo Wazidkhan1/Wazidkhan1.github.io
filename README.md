@@ -1,20 +1,11 @@
-# Wazidkhan1.github.io
-## About me
-Hy there myself ***wazid khan*** an undergraduated 1st year student in IIT Goa
+**ABOUT ME**
+Hi I am *WAZID KHAN* an  student at IIT Goa.
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fharelbd.Bitmoji%2F&psig=AOvVaw0pxbRbBZVw23IoTzEZs4YL&ust=1707558909807000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICb3eX-nYQDFQAAAAAdAAAAABAE
+**EDUCATION**
+Primary+Highschool. Krishna Public School (2022)
+Btech. Indian Institute Of Technology Goa (2023-27)
+**COURSES**
+|Courses Name|Professers  |
+|--MA102|-Mr. Kalpesh -|
+| BIO101 |  
 
-## Education
-Standard:   |  College Name   |   Year
-11th-12th  | Krishna Public school | 2020-2022
-Btech  | IIT Goa | 2023-27 
-***
-## Courses
-~PH102
-~ME101
-~BIO101
-~MA102
-~CS102
-## Hobbies
-Cricket
-Music
-Dance
-and many more..
