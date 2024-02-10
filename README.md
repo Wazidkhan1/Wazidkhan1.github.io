@@ -8,7 +8,7 @@
 
 **Highschool**: [Krishna Public School](https://kpsraipur.com/) (2022)
 
-**Btech**: [IIT Goa](https://iitgoa.ac.in/)  [2023-27]
+**Btech**: [IIT Goa](https://iitgoa.ac.in/)  (2023-27)
 
  **TEST SCORS**
 
