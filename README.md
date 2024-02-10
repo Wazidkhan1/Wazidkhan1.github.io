@@ -6,9 +6,9 @@
 
 ## **EDUCATION**
 
-**Highschool**: [KPS Raipur](https://kpsraipur.com/) (2022)
+**Highschool**: [Krishna Public School](https://kpsraipur.com/) (2022)
 
-**[Btech]**. (https://iitgoa.ac.in/)  [2023-27]
+**Btech**: [IIT Goa](https://iitgoa.ac.in/)  [2023-27]
 
  **TEST SCORS**
 
