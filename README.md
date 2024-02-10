@@ -5,6 +5,7 @@ Hi I am ***WAZID KHAN*** an  student at [IIT Goa.](https://www.google.com/url?sa
 ## **EDUCATION**
 
 [**Highschool**.](https://kpsraipur.com/) (2022)
+
 [**Btech**.](https://iitgoa.ac.in/) (2023-27)
 
  **TEST SCORS**
