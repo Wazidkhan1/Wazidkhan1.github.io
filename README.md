@@ -19,6 +19,7 @@ S.NO | EXAMS  | RANK  |
 AUTUMN SEMESTER
 
 **MTH 101** : Calculus *(Sandipan)*
+
 **PH 101**   : Quantum Physics and Application *(Santosh Kumar Das)*
 **CS 101**  : Introduction to Computing *(Clint George)*
 **CH 101** : Physical Chemistry *(Dr. Subramaniyam Iyer)*
