@@ -15,7 +15,7 @@
 S.NO | EXAMS  | RANK  |
 1 | JEE ADVANCED | 9431  |
 2 | JEE MAINS | 7845 |
-3 | BITS | 2145 |
+3 | CUET | 2145 |
 
 ## COURSES
 AUTUMN SEMESTER
@@ -71,6 +71,4 @@ Talking about Hobbies, I love playing Outdoor  Games and some of them     are:
 
 
 
-
-                                                 ![enter image description here](https://www.hindustantimes.com/ht-img/img/2023/11/12/550x309/India-Cricket-WCup-68_1699809986420_1699810043017.jpg)
-                                                                        
+![enter image description here](https://www.hindustantimes.com/ht-img/img/2023/11/12/550x309/India-Cricket-WCup-68_1699809986420_1699810043017.jpg)
