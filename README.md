@@ -15,7 +15,7 @@ S.NO | EXAMS  | RANK  |
 2 | JEE MAINS | 7845 |
 3 | BITS | 2145 |
 
-## ****COURSES****
+## **COURSES**
 AUTUMN SEMESTER
 
 **MTH 101** : Calculus *(Sandipan)*
