@@ -13,7 +13,7 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fharelbd.Bit
 S.NO | EXAMS  | RANK  |
 1 | JEE ADVANCED | 9431  |
 2 | JEE MAINS | 7845 |
-3 | BITS | 2145 |
+3 | MHT-CET |1  |
 
 ## COURSES
 AUTUMN SEMESTER
