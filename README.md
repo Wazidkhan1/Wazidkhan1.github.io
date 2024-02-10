@@ -8,13 +8,9 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fharelbd.Bit
 **Highschool**. https://kpsraipur.com/ (2022)
 **Btech**. https://iitgoa.ac.in/ (2023-27)
 
- 
+ **TEST SCORS**
 
-
-
-**TEST SCORS**
-
- S.NO | EXAMS  | RANK  |
+S.NO | EXAMS  | RANK  |
 1 | JEE ADVANCED | 9431  |
 2 | JEE MAINS | 7845 |
 3 | BITS | 2145 |
@@ -23,14 +19,14 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fharelbd.Bit
 AUTUMN SEMESTER
 
 **MTH 101** : Calculus *(Sandipan)*
- **PH 101**   : Quantum Physics and Application *(Santosh Kumar Das)*
- **CS 101**  : Introduction to Computing *(Clint George)*
- **CH 101** : Physical Chemistry *(Dr. Subramaniyam Iyer)*
- **CH 102** : Inorganic and Organic Chemistry *(Rishikesh)*
- **CH 104** : Chemistry Lab II 
- **HS 101** :  Humanities and Social Sciences *(Shabiha Hashmi)*
- **MA 100** : Introduction to Profession *(Rajeev Gupta)*
- **NO 101** : National Sports Organization *(Santosh Upadhyay*)
+**PH 101**   : Quantum Physics and Application *(Santosh Kumar Das)*
+**CS 101**  : Introduction to Computing *(Clint George)*
+**CH 101** : Physical Chemistry *(Dr. Subramaniyam Iyer)*
+**CH 102** : Inorganic and Organic Chemistry *(Rishikesh)*
+**CH 104** : Chemistry Lab II 
+**HS 101** :  Humanities and Social Sciences *(Shabiha Hashmi)*
+**MA 100** : Introduction to Profession *(Rajeev Gupta)*
+**NO 101** : National Sports Organization *(Santosh Upadhyay*)
  
 SPRING SEMESTER
 
