@@ -6,9 +6,9 @@
 
 ## **EDUCATION**
 
-**Highschool**. https://kpsraipur.com/ (2022)
+**Highschool**.[ https://kpsraipur.com/) (2022)
 
-**Btech**. https://iitgoa.ac.in/ (2023-27)
+**[Btech]**. (https://iitgoa.ac.in/)  [2023-27]
 
  **TEST SCORS**
 
